@@ -1,4 +1,5 @@
 [![Gem Version](https://badge.fury.io/rb/adsense_sync.svg)](https://badge.fury.io/rb/adsense_sync)
+[![Open Source Helpers](https://www.codetriage.com/gaurav2728/adsense_sync/badges/users.svg)](https://www.codetriage.com/gaurav2728/adsense_sync)
 
 # AdsenseSync
 
